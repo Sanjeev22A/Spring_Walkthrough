@@ -92,6 +92,7 @@ To initialize the project, I used the **Spring Initializr** tool:
 * The additional libraries a project needs:
 
   * Just Type and select the dependencies via **ADD DEPENDENCIES** button.
+  * Don't Forget to add the dependency for web-starter, otherwise you wont be getting any apis.
 
 ### Installation
  * Click on Generate Button.
