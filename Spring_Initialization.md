@@ -86,7 +86,12 @@ To initialize the project, I used the **Spring Initializr** tool:
 
   * **JAR** → Standalone application (default, runnable with `java -jar`).
   * **WAR** → For deployment into an external servlet container (e.g., Tomcat).
+ 
+### **Dependencies**
 
+* The additional libraries a project needs:
+
+  * Just Type and select the dependencies via **ADD DEPENDENCIES** button.
 ---
 
 
